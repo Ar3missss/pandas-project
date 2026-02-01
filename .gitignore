@@ -1,0 +1,9 @@
+# conda environment
+env/
+
+# python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# editor
+.vscode/
